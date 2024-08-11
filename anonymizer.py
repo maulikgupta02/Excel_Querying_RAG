@@ -1,6 +1,3 @@
-'''
- Contacts - Maulik Gupta OBS/MKT, Pushpendra Singh OBS/MKT
-'''
 
 
 """
