@@ -1,5 +1,5 @@
 '''
- Contacts - Maulik Gupta OBS/MKT, Pushpendra Singh OBS/MKT
+Requirements: Azure OpenAI gpt-4o key
 '''
 
 
